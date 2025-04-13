@@ -1,4 +1,4 @@
-# 🕵️ SpyID — Find Telegram User IDs by @username
+#  SpyID — Find Telegram User IDs by @username
 
 **SpyID** is a simple Python script that allows you to retrieve the Telegram User ID of any public account by entering their `@username` — directly from the command line.
 
