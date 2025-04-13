@@ -3,8 +3,8 @@ from telethon.errors import UsernameNotOccupiedError
 from datetime import datetime
 
 # Substitua com seu api_id e api_hash
-api_id = 20060878
-api_hash = '737ff027610a0589d05dade54230b0a7'
+api_id = 
+api_hash = ''
 
 # Função para registrar no log
 def registrar_log(mensagem):
