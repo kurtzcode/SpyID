@@ -4,9 +4,11 @@
 
 > ⚠️ You must log in with your own Telegram account via the [Telegram API](https://my.telegram.org) to use this tool. It does not work for private users or usernames that don’t exist.
 
----
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1356317980950007808/1360400866338672770/BMRERERERGRFyyBiIiIiIiISAckEBEREREREemABCIiIiIiIiIdkEBERERERESkAxKIiIiIiIiIdEACERERERERkQ5IICIiIiIiItIBCUREREREREQ6IIGIiIiIiIhIByQQERERERER6YAEIiIiIiIiIh2QQERERERERKQDEoiIiIiIiIh0QAIRERERERGRDkggIiIiIiIi0gEJRERERERERDoggYiIiIiIiEgHJBARERERERHpgAQiIiIiIiIiHZBAREREREREpAMSiIiIiIiIiHRAAhEREREREZEOSCAiIiIiIiLSAf8P0hMNRNMyOcAAAAASUVORK5CYII.png?ex=67fcf5c9&is=67fba449&hm=f9b379c16adc751b6224b56d0ddf2aacbc02a71891f8bdd40bf1b4862d67ca32&=&format=webp&quality=lossless&width=1044&height=349" width="700" alt="SpyID Screenshot">
+</p>
 
-![Screenshot](https://media.discordapp.net/attachments/1356317980950007808/1360400866338672770/BMRERERERGRFyyBiIiIiIiISAckEBEREREREemABCIiIiIiIiIdkEBERERERESkAxKIiIiIiIiIdEACERERERERkQ5IICIiIiIiItIBCUREREREREQ6IIGIiIiIiIhIByQQERERERER6YAEIiIiIiIiIh2QQERERERERKQDEoiIiIiIiIh0QAIRERERERGRDkggIiIiIiIi0gEJRERERERERDoggYiIiIiIiEgHJBARERERERHpgAQiIiIiIiIiHZBAREREREREpAMSiIiIiIiIiHRAAhEREREREZEOSCAiIiIiIiLSAf8P0hMNRNMyOcAAAAASUVORK5CYII.png?ex=67fcf5c9&is=67fba449&hm=f9b379c16adc751b6224b56d0ddf2aacbc02a71891f8bdd40bf1b4862d67ca32&=&format=webp&quality=lossless&width=1044&height=349)
+---
 
 ## 🚀 Features
 
